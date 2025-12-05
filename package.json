@@ -1,0 +1,12 @@
+{
+  "name": "test-envrizz",
+  "version": "1.0.0",
+  "description": "Test project for envrizz migration testing",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["test", "envrizz", "migration"],
+  "author": "",
+  "license": "ISC"
+}
